@@ -1,0 +1,12 @@
+E:\tools\visual\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\tools\visual\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\tools\visual\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\tools\visual\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\tools\visual\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\tools\visual\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\tools\visual\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\tools\visual\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\tools\visual\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\tools\visual\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.login.resources
+E:\tools\visual\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMain.resources
+E:\tools\visual\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmshow.resources
